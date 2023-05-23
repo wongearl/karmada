@@ -73,7 +73,7 @@ certs:
   mode: auto
   auto:
     ## @param certs.auto.expiry expiry of the certificate
-    expiry: 43800h
+    expiry: 876000h
     ## @param certs.auto.hosts hosts of the certificate
     hosts: [
       "kubernetes.default.svc",
